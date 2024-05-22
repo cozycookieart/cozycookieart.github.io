@@ -21,9 +21,10 @@ author: cozycookieart
 
 navbar-links:
   Home: "https://cozycookieart.github.io"
-  About Us: "aboutme"
   Shop:
     - Redbubble: "https://www.redbubble.com/people/cozy-cookie-art/shop?asc=u"
+  Comics: "https://cozycookieart.github.io"
+  About Us: "aboutme"
   Contact: "https://cozycookieart.github.io"
 
 ################
