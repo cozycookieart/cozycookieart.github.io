@@ -683,6 +683,7 @@ nav.top-nav-short-permanent ~ header > .intro-header {
 }
 nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-top: 3.1875rem;
+  margin-bottom: 2.1875rem;
 }
 .intro-header.big-img .big-img-transition {
   position: absolute;
