@@ -1,6 +1,6 @@
 ---
-layout: page
-title: characters
+layout: home
+title: Meet the Characters
 subtitle: 
 cover-img: 
 thumbnail-img: 
