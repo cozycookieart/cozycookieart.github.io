@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: characters
 subtitle: 
 cover-img: 
