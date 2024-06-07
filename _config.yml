@@ -23,9 +23,9 @@ navbar-links:
   Home: "https://cozycookieart.github.io"
   Shop:
     - Redbubble: "https://www.redbubble.com/people/cozy-cookie-art/shop?asc=u"
+  Characters: "characters"
   Comics: "comics"
-  About Us: "aboutme"
-  Contact: "https://cozycookieart.github.io"
+  About: "aboutme"
 
 ################
 # --- Logo --- #
