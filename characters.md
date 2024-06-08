@@ -11,6 +11,6 @@ author:
 
 <p>
   <header>
-    <h1 align="center">Meet the Characters</h1>
+    <h1 align="center">Characters</h1>
   </header>
 </p>
