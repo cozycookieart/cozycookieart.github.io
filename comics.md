@@ -15,4 +15,4 @@ author:
   </header>
 </p>
 
-<h5 align="center">Check out our comics! All comics and more posted @cozycookieart on Instagram</h3>
+<h5 align="center">Check out our comics! All comics and more posted @cozycookieart on Instagram</h5>
