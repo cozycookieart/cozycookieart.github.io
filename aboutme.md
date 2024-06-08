@@ -1,5 +1,9 @@
 ---
 layout: page
-title: About Us
-subtitle: 
 ---
+
+<p>
+  <header>
+    <h1 align="About Us">Comics</h1>
+  </header>
+</p>
