@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Meet the Characters
+title: 
 subtitle: 
 cover-img: 
 thumbnail-img: 
@@ -9,4 +9,8 @@ tags:
 author: 
 ---
 
-Meet the characters! See @cozycookieart on Instagram for more!
+<p>
+  <header>
+    <h1 align="center">Meet the Characters</h1>
+  </header>
+</p>
