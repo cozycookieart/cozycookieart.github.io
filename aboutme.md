@@ -4,6 +4,6 @@ layout: page
 
 <p>
   <header>
-    <h1 align="About Us">Comics</h1>
+    <h1 align="center">About Us</h1>
   </header>
 </p>
