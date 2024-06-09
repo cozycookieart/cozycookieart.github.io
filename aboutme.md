@@ -7,3 +7,7 @@ layout: page
     <h1 align="center">About</h1>
   </header>
 </p>
+
+<p>
+  <h5 align="center"> cozycookieart was started in 2023 and has since been based in the Bay Area. You can find us on Instagram and Redbubble. Thank you for all of your support!</h5>
+</p>
